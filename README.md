@@ -1,6 +1,7 @@
 # 👋 Felipe Shicasho de Toledo
 
-Estudante de Análise e Desenvolvimento de sistemas em constante evolução, apaixonado pelo aprendizado.
+Estudante de Análise e Desenvolvimento de sistemas em constante evolução, gosto de treinar boxe e calistenia.
+Cristão ✝
 
 ### Conecte-se comigo
 
