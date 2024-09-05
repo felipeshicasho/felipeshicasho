@@ -1,6 +1,6 @@
 # 👋 Felipe Shicasho de Toledo
 
-Estudante de Análise e Desenvolvimento de sistemas em constante evolução, gosto de treinar boxe e calistenia.
+Estudante de Análise e Desenvolvimento de sistemas em constante evolução, gosto de programar, treinar boxe e calistenia.
 Cristão ✝
 
 ### Conecte-se comigo
