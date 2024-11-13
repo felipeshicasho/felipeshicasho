@@ -15,7 +15,7 @@ Cristão ✝
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=553C7B)
-![PHP](https://shields.io/badge/-PHP-3776AB?style=for-the-badge&logo=php&logoColor=F0DB4F)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=F0DB4F)
 ![Python](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python&logoColor=CD6799)
 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
