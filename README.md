@@ -1,29 +1,23 @@
-# 👋 Felipe Shicasho de Toledo
+# 💫 Sobre mim:
+Olá, sou Felipe Toledo, 20 anos, de Presidente Prudente (SP). Estudante de Análise e Desenvolvimento de Sistemas no 4º semestre na FATEC.
+Atualmente, estou estudando cursos online de diversas linguagens de programação através da plataforma da DIO e ALURA. Também estou fazendo estágio na Secretária de Tecnologia de Presidente Prudente (SETEC)
+Gosto de programar, treinar boxe e calistenia.<br>Cristão ✝
 
-Estudante de Análise e Desenvolvimento de sistemas em constante evolução, gosto de programar, treinar boxe e calistenia.
-Cristão ✝
 
-### Conecte-se comigo
+## 🌐 Redes Sociais:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/felipe.toledin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipeshicasho) 
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://dio.me/users/felipetoleds)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:felipetoleds@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](linkedin.com/in/felipe-shicasho-de-toledo/)
+# 💻 Conhecimento em:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=felipeshicasho&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=felipeshicasho&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeshicasho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Habilidades
+### ✍️ 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
-![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=553C7B)
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=787CB5)
-![Python](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python&logoColor=CD6799)
-![Python](https://img.shields.io/badge/C#-000?style=for-the-badge&logo=csharp&logoColor=CD6799)
+---
+[![](https://visitcount.itsvg.in/api?id=felipeshicasho&icon=0&color=13)](https://visitcount.itsvg.in)
 
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-
-<div>
-<a href="https://github.com/felipeshicasho">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeshicasho&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeshicasho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
