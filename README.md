@@ -20,3 +20,9 @@ Cristão ✝
 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+
+<div>
+<a href="https://github.com/felipeshicasho">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?userfelipeshicasho&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeshicasho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
