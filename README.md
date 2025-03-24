@@ -1,6 +1,9 @@
-<h2 align="left">Olá, sou Felipe Toledo, 20 anos, de Presidente Prudente (SP). Estudante de Análise e Desenvolvimento de Sistemas no 4º semestre na FATEC.
+<h2 align="left">Olá, sou Felipe Toledo, 20 anos, de Presidente Prudente (SP). </h2>
+<p>
+Estudante de Análise e Desenvolvimento de Sistemas no 4º semestre na FATEC.
 Atualmente, estou estudando cursos online de diversas linguagens de programação através da plataforma da DIO e ALURA. Também estou fazendo estágio na Secretária de Tecnologia de Presidente Prudente (SETEC)
-Gosto de programar, treinar boxe e calistenia.<br>Cristão ✝</h2>
+Gosto de programar, treinar boxe e calistenia.<br>Cristão ✝  
+</p>
 
 ###
 
